@@ -1,0 +1,101 @@
+body{
+font-family:'caliber','Gill Sans';
+}
+.one p{
+float:left;
+margin-right:20px;
+}
+.one{
+position:absolute;
+left:900px;
+top:50px;
+color:white;
+
+
+}
+.header{
+background-color:#333333;
+width:100%;
+}
+.name{
+color:white;
+font-size:48px;
+margin-left:80px;
+}
+
+.flex-container  div {
+color:#333333;
+font-size:16px;
+float:left;
+margin-right:50px;
+}
+.flex-container{
+ margin-left:80px;
+position:absolute;
+bottom:615px;
+
+}
+.stay {
+  font-size: 58pt;
+  color: #333333;
+}
+.form{
+margin-left:40px;
+
+}
+.table{
+ margin-right: auto; 
+background-color:#f2f2f2;
+}
+b{font-size:50px;
+}
+
+.deal{
+font-size:30px;
+margin-left:80px;
+}
+.hi{
+font-size:30px;
+
+}
+.place{
+padding-left:120px;
+}
+.fash{
+font-size:20pt;
+  background-color:#dbf3fa;
+  padding:5px;
+  align-text:center;
+}
+.part{
+display: flex;
+  justify-content: space-between;
+  align-items: center;
+list-style-type:none;
+}
+.sec{
+padding: 10px 90px;
+}
+.two{
+font-size:14pt;
+color: #333333;
+margin-left:100px;
+}
+.my{
+font-size:18pt;
+list-style-type:none;
+}
+footer {
+  padding: 20px 120px;
+  height: 500px;
+  weidth: 1000px;
+  display: flex;
+  justify-content: space-between;
+  background-color:#131a22;
+  color: white;
+  font-size:16pt;
+
+}
+ul li{
+list-style-type:none;
+}
